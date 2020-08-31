@@ -1,0 +1,13 @@
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csprojAssemblyReference.cache
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\wramirez\Documents\wramirez\Linq\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.genruntimeconfig.cache
